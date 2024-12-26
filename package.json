@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cookie": "^1.0.2",
+    "dotenv": "^16.4.7",
+    "fs": "0.0.1-security",
+    "node": "^23.5.0",
+    "puppeteer": "^23.11.1",
+    "puppeteer-core": "^23.11.1",
+    "twilio": "^5.4.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
